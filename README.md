@@ -1,1 +1,3 @@
 # lojaVirtual
+
+arquivo alterado
